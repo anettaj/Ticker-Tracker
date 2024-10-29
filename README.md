@@ -50,4 +50,4 @@ If you'd like to contribute to the project, feel free to open an issue or submit
 ## Acknowledgments
 
 Thank you for taking the time to review my project! I hope you find it useful and informative. You can also check out a brief demonstration of the app on [YouTube](https://youtube.com/shorts/3VZKtRWOUU8).
-```
+

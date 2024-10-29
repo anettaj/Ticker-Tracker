@@ -28,7 +28,7 @@ You can view the live version of the app [here](https://anettaj.in/Ticker-Tracke
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Ticker-Tracker.git
+   git clone https://github.com/anettaj/Ticker-Tracker.git
    ```
 2. Navigate to the project directory:
    ```bash

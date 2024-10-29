@@ -1,5 +1,4 @@
 
-```markdown
 # Ticker Tracker
 
 **Ticker Tracker** is a mobile application that allows users to track estimated vs. actual earnings for various companies by entering their stock ticker symbols. This app provides an interactive experience by visualizing earnings data and displaying transcripts of earnings calls for specific quarters.

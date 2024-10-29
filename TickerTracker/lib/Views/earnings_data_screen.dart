@@ -19,6 +19,7 @@ class _EarningsDataScreenState extends State<EarningsDataScreen> {
     final earningsProvider = Provider.of<EarningsProvider>(context);
     final earningsData = earningsProvider.earningsData;
     double W = MediaQuery.of(context).size.width;
+    double H = MediaQuery.of(context).size.height;
 
     return Scaffold(
       appBar: AppBar(),
@@ -40,7 +41,7 @@ class _EarningsDataScreenState extends State<EarningsDataScreen> {
           Padding(
             padding: const EdgeInsets.all(10.0),
             child: SizedBox(
-              height: 300,
+              height: H*0.5,
               child: LineChart(
                 LineChartData(
                   lineBarsData: [

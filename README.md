@@ -24,6 +24,14 @@
 
 You can view the live version of the app [here](https://anettaj.in/Ticker-Tracker/).
 
+## Screenshots
+
+<p align="center">
+  <img src="images/38.png" alt="Ticker Tracker app" style="width: 300px; height: auto; margin: 0 10px;">
+  <img src="images/39.png" alt="Ticker Tracker app" style="width: 300px; height: auto; margin: 0 10px;">
+  <img src="images/40.png" alt="Ticker Tracker app" style="width: 300px; height: auto; margin: 0 10px;">
+</p>
+
 ## How to Run the Project
 
 1. Clone the repository:
